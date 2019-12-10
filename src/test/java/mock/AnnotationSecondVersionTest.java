@@ -13,7 +13,7 @@ import org.mockito.runners.MockitoJUnitRunner;
  * @since
  */
 @RunWith(MockitoJUnitRunner.class)
-public class AnnotationSecondVersionTest {
+public class AnnotationSecondVersionTest {   
 
     @Mock
     private DummyCustomerService customerService;
