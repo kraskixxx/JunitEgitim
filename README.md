@@ -1,2 +1,2 @@
 # JunitEgitim
- JUnit ile alakalı yapılan örnke çalışmalar
+ JUnit ile alakalı yapılan örnek çalışmalar
